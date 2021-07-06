@@ -2,7 +2,8 @@
 
 #### 一、TensorRT的主要功能：
 
-![image-20210706133708865](C:\Users\zwp\AppData\Roaming\Typora\typora-user-images\image-20210706133708865.png)
+![image-20210706133708865](https://user-images.githubusercontent.com/13610075/124576817-4254d200-de7f-11eb-989a-c2aed33f0f3c.png)
+
 
 为深度学习推理应用提供低延迟和高**吞吐量**。
 
